@@ -2,6 +2,7 @@
 
 # Awesome Rental Hub
 
+commints are remaining, ongoing project...
 ![Project Banner](link_to_banner_image.png)
 
 Welcome to **OWNland**! This platform is your one-stop solution for all things related to property rental. From listing your property to finding your dream rental, we've got you covered. Our website is built with a mix of HTML, CSS, JavaScript, and powered by Bootstrap to make your rental experience as smooth as possible.
